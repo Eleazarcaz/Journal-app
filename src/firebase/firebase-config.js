@@ -20,7 +20,6 @@ const firebaseConfig = {
   storageBucket: 'login-app-44b5d.appspot.com',
   messagingSenderId: '67726808912',
   appId: '1:67726808912:web:dc7ac87f61524cd491fe55',
-  measurementId: 'G-41E91EY4TT',
 };
 
 // if( process.env.NODE_ENV === 'test' ) {
